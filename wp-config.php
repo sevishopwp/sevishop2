@@ -16,16 +16,16 @@
 
 // ** Ajustes de MySQL. Solicita estos datos a tu proveedor de alojamiento web. ** //
 /** El nombre de tu base de datos de WordPress */
-define( 'DB_NAME', 'wp_sevishop' );
+define( 'DB_NAME', 'bzafezuktzvfjphlsinr' );
 
 /** Tu nombre de usuario de MySQL */
-define( 'DB_USER', 'sevishop' );
+define( 'DB_USER', 'uyp9ea3w4msrps1n' );
 
 /** Tu contraseña de MySQL */
-define( 'DB_PASSWORD', 'sevishop' );
+define( 'DB_PASSWORD', 'nHTXnq1jwLVdGyeBR4Ip' );
 
 /** Host de MySQL (es muy probable que no necesites cambiarlo) */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', 'bzafezuktzvfjphlsinr-mysql.services.clever-cloud.com' );
 
 /** Codificación de caracteres para la base de datos. */
 define( 'DB_CHARSET', 'utf8mb4' );
