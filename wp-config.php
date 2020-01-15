@@ -16,16 +16,16 @@
 
 // ** Ajustes de MySQL. Solicita estos datos a tu proveedor de alojamiento web. ** //
 /** El nombre de tu base de datos de WordPress */
-define( 'DB_NAME', 'bzafezuktzvfjphlsinr' );
+define( 'DB_NAME', 'bgz7dt5poi5hmredgh1m' );
 
 /** Tu nombre de usuario de MySQL */
-define( 'DB_USER', 'uyp9ea3w4msrps1n' );
+define( 'DB_USER', 'uokpiarpymju7pbc' );
 
 /** Tu contraseña de MySQL */
-define( 'DB_PASSWORD', 'nHTXnq1jwLVdGyeBR4Ip' );
+define( 'DB_PASSWORD', '7d8P96FYEzJqgef64jkV' );
 
 /** Host de MySQL (es muy probable que no necesites cambiarlo) */
-define( 'DB_HOST', 'bzafezuktzvfjphlsinr-mysql.services.clever-cloud.com' );
+define( 'DB_HOST', 'bgz7dt5poi5hmredgh1m-mysql.services.clever-cloud.com' );
 
 /** Codificación de caracteres para la base de datos. */
 define( 'DB_CHARSET', 'utf8mb4' );
